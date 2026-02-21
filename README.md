@@ -1,6 +1,6 @@
 <h1>Hi, I'm Emmanuel! <br/><a href="https://github.com/emmancyberguard">Cloud Enthusiast</a>, <a href="https://www.linkedin.com/in/eze-emmanuel-o-057a803a3/">Cybersecurity Professional</a>
 
-  # CIA Triad
+  # Introduction
 
 I am a cybersecurity professional driven by curiosity, innovation, and a relentless passion for defending the digital frontier. With a strong foundation in technology and a deep understanding of evolving cyber threats, I thrive on solving complex security challenges and staying ahead of emerging trends in today’s dynamic threat landscape
 
