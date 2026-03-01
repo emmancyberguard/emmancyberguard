@@ -14,9 +14,8 @@ I am a cybersecurity professional driven by curiosity, innovation, and a relentl
   - [Wireshark LAB](https://github.com/joshmadakor1/Sentinel-Lab)
   - [API Inbound/Outbound Troubleshooting using Wireshark ](https://github.com/joshmadakor1/Jwipe.PowerShell)
 - <b>Splunk, Sentinel, Kali Linux, OWASP, Nikto (SIEM Tools and Vulnerability Assessment)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [SIEM Splunk - Splunk Search Queries](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Recoonaissance](https://github.com/joshmadakor1/DecrypterPOC)
 - <b>Python</b>
   - [Nessus, NMAP, Metaspolit, ZAP, Bumpsuit (Penetration Testing and Vulnerabilities Assessment Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 - <b>MobSF</b>
@@ -24,12 +23,7 @@ I am a cybersecurity professional driven by curiosity, innovation, and a relentl
 
 <h2>MobSF </h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
-
+- [OWASP](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
