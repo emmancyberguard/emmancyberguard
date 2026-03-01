@@ -11,7 +11,7 @@ I am a cybersecurity professional driven by curiosity, innovation, and a relentl
 - <b>NIST Cybersecurity Framework & ISO (GDPR, PCI, HIPAA)</b>
   - [How NIST is practically implemented across various industries](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Wireshark Scans & Reporting</b>
-  - [Wireshark LAB](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Wireshark LAB](https://github.com/Ryan-Sapone/Nmap-and-Wireshark-Lab)
   - [API Inbound/Outbound Troubleshooting using Wireshark ](https://github.com/joshmadakor1/Jwipe.PowerShell)
 - <b>Splunk, Sentinel, Kali Linux, OWASP, Nikto (SIEM Tools and Vulnerability Assessment)</b>
   - [SIEM Splunk - Splunk Search Queries](https://github.com/joshmadakor1/EncrypterPOC)
