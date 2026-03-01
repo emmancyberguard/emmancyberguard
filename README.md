@@ -8,7 +8,7 @@ I am a cybersecurity professional driven by curiosity, innovation, and a relentl
 
 - <b>Governance, Risk & Compliance (Confluence, Risk Register, Security Policies & RACI)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Risk Management (GDPR, PCI, HIPAA)</b>
+- <b>NIST Cybersecurity Framework & ISO (GDPR, PCI, HIPAA)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Wireshark Scans & Reporting</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
