@@ -19,7 +19,7 @@ I am a cybersecurity professional driven by curiosity, innovation, and a relentl
 - <b>Pen Test</b>
   - [Nessus, NMAP, Metaspolit, ZAP, Bumpsuit (Penetration Testing and Vulnerabilities Assessment Demo)](https://github.com/emmancyberguard/nessus)
 - <b>MobSF</b>
-  - [Mobile Devices Vulnerabilities Assessment Demo (Penetration Testing and Vulnerabilities Assessment Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Mobile Devices Vulnerabilities Assessment Demo (Penetration Testing and Vulnerabilities Assessment Demo)](https://github.com/emmancyberguard/MobSF)
 
 <h2>MobSF </h2>
 
