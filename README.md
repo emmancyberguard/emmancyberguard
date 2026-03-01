@@ -26,7 +26,7 @@ I am a cybersecurity professional driven by curiosity, innovation, and a relentl
 - [OWASP](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+[Cyber World]]
 
 ### Network
 <div>
