@@ -12,7 +12,7 @@ I am a cybersecurity professional driven by curiosity, innovation, and a relentl
   - [How NIST is practically implemented across various industries](https://github.com/ovh/debian-cis)
 - <b>Wireshark Scans & Reporting</b>
   - [Wireshark LAB](https://github.com/Ryan-Sapone/Nmap-and-Wireshark-Lab)
-  - [API Inbound/Outbound Troubleshooting using Wireshark ](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [API Inbound/Outbound Troubleshooting using Wireshark ](https://github.com/Kunalgarg2100/Wireshark-Lab/tree/master/Part2)
 - <b>Splunk, Sentinel, Kali Linux, OWASP, Nikto (SIEM Tools and Vulnerability Assessment)</b>
   - [SIEM Splunk - Splunk Search Queries](https://github.com/joshmadakor1/EncrypterPOC)
   - [Recoonaissance](https://github.com/joshmadakor1/DecrypterPOC)
