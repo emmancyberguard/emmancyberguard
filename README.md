@@ -16,8 +16,8 @@ I am a cybersecurity professional driven by curiosity, innovation, and a relentl
 - <b>Splunk, Sentinel, Kali Linux, OWASP, Nikto (SIEM Tools and Vulnerability Assessment)</b>
   - [SIEM Splunk - Splunk Search Queries](https://github.com/splunk/splunk-webframework)
   - [Recoonaissance](https://github.com/OWASP/Nettacker)
-- <b>Python</b>
-  - [Nessus, NMAP, Metaspolit, ZAP, Bumpsuit (Penetration Testing and Vulnerabilities Assessment Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Pen Test</b>
+  - [Nessus, NMAP, Metaspolit, ZAP, Bumpsuit (Penetration Testing and Vulnerabilities Assessment Demo)](https://github.com/emmancyberguard/nessus)
 - <b>MobSF</b>
   - [Mobile Devices Vulnerabilities Assessment Demo (Penetration Testing and Vulnerabilities Assessment Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
