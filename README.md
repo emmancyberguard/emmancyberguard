@@ -9,7 +9,7 @@ I am a cybersecurity professional driven by curiosity, innovation, and a relentl
 - <b>Governance, Risk & Compliance (Confluence, Risk Register, Security Policies & RACI)</b>
   - [GRC-NIST-ISO-GDPR-PCI DSS FRAMEWORK](https://github.com/fixitgearware/NIST-Cybersecurity-Framework-2.0-)
 - <b>NIST Cybersecurity Framework & ISO (GDPR, PCI, HIPAA)</b>
-  - [How NIST is practically implemented across various industries](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [How NIST is practically implemented across various industries](https://github.com/ovh/debian-cis)
 - <b>Wireshark Scans & Reporting</b>
   - [Wireshark LAB](https://github.com/Ryan-Sapone/Nmap-and-Wireshark-Lab)
   - [API Inbound/Outbound Troubleshooting using Wireshark ](https://github.com/joshmadakor1/Jwipe.PowerShell)
