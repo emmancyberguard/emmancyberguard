@@ -7,7 +7,7 @@ I am a cybersecurity professional driven by curiosity, innovation, and a relentl
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Governance, Risk & Compliance (Confluence, Risk Register, Security Policies & RACI)</b>
-  - [GRC-NIST-ISO-GDPR-PCI DSS FRAMEWORK](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [GRC-NIST-ISO-GDPR-PCI DSS FRAMEWORK](https://github.com/fixitgearware/NIST-Cybersecurity-Framework-2.0-)
 - <b>NIST Cybersecurity Framework & ISO (GDPR, PCI, HIPAA)</b>
   - [How NIST is practically implemented across various industries](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Wireshark Scans & Reporting</b>
