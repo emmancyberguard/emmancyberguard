@@ -11,10 +11,8 @@ I am a cybersecurity professional driven by curiosity, innovation, and a relentl
 - <b>NIST Cybersecurity Framework & ISO (GDPR, PCI, HIPAA)</b>
   - [How NIST is practically implemented across various industries](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Wireshark Scans & Reporting</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Wireshark LAB](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [API Inbound/Outbound Troubleshooting using Wireshark ](https://github.com/joshmadakor1/Jwipe.PowerShell)
 - <b>Splunk, Sentinel, Kali Linux, OWASP, Nikto (SIEM Tools and Vulnerability Assessment)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
