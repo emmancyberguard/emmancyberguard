@@ -23,7 +23,7 @@ I am a cybersecurity professional driven by curiosity, innovation, and a relentl
 
 <h2>MobSF </h2>
 
-- [OWASP](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [OWASP](https://owasp.org/www-community/Free_for_Open_Source_Application_Security_Tools)
 
 ## Tools
 Cyber World
